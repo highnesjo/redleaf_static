@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(189, 189, 189, 0.8);
+  background: rgba(134, 2, 2, 0.8);
   padding: 12px 0;
 }
 
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: rgb(235, 152, 152);
+  color: rgb(124, 0, 0);
 }
 
 #header .logo img {
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: rgba(196, 189, 189, 0.7);
+  color: rgba(126, 5, 5, 0.7);
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color: #fff;
+  background-color: rgb(126, 3, 3);
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background: linear-gradient(45deg, rgba(183, 183, 164, 0.9) 0%, rgba(183, 174, 170, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
 }
 
